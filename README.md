@@ -4,3 +4,4 @@ fix error ASUS Xonar AE (sound jamming)
 2. Download Asmedia USB Host Controller Driver
 3. Download Asmedia ASM104x Firmware Upgrade Tool
 4. install
+// find by yourself. cause big largeness files.
